@@ -23,7 +23,7 @@ public class Main {
         double boxVolume = box1.flexibleVolume(0.1);
         System.out.println(boxVolume + "  в дм куб");
         System.out.println(box1.color);
-
+//jdsglkha;hglj
         box2.printVolume();
         System.out.println(box2.color);
         System.out.println(box2==box1);
